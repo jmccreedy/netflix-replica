@@ -1,10 +1,10 @@
 {
   "name": "netflix-replica",
   "version": "1.0.0",
-  "description": "netflix replia app for COM682 final year project - linking to microsoft AZ services",
+  "description": "netflix replica app for COM682 final year project - linking to microsoft AZ services",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
