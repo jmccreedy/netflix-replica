@@ -1,0 +1,19 @@
+{
+  "name": "netflix-replica",
+  "version": "1.0.0",
+  "description": "netflix replia app for COM682 final year project - linking to microsoft AZ services",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmccreedy/netflix-replica.git"
+  },
+  "author": "Jon McCreedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmccreedy/netflix-replica/issues"
+  },
+  "homepage": "https://github.com/jmccreedy/netflix-replica#readme"
+}
