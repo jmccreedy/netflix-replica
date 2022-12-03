@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jmccreedy/netflix-replica/issues"
   },
-  "homepage": "https://github.com/jmccreedy/netflix-replica#readme"
+  "homepage": "https://github.com/jmccreedy/netflix-replica#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
